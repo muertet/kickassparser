@@ -1,3 +1,5 @@
+![Analytics](https://ga-beacon.appspot.com/UA-17476024-7/kickassparser/readme?pixel)](https://github.com/muertet/kickassparser)
+
 KickAss backup parser
 =========
 
