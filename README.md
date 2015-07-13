@@ -5,6 +5,8 @@ KickAss backup parser
 
 This class allows you to download and parse, daily and hourly KickAss torrent db backups.
 
+**UPDATE** KickAssTorrents have changed their T.O.S. Now you need to fill a request to access their backups, so this class has been deprecated.
+
 Demo
 ----
 
